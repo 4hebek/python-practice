@@ -1,0 +1,6 @@
+id=001;name=Karoline;success=true;timestamp=2026-02-02 14:37:05 UTC
+id=002;name=Manh;success=false;timestamp=2026-02-02 14:37:05 UTC
+id=003;name=Dr Dolittle;success=true;timestamp=2026-02-02 14:37:05 UTC
+id=004;name=Aragon;success=true;timestamp=2026-02-02 14:37:05 UTC
+id=005;name=Sophie;success=true;timestamp=2026-02-02 14:37:05 UTC
+id=006;name=Berlok;success=false;timestamp=2026-02-02 14:37:05 UTC

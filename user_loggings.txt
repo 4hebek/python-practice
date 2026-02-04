@@ -1,0 +1,6 @@
+1001;"Karoline";True;2026-02-02 14:37:05 UTC
+1002;"Manh";False;2026-02-02 14:37:05 UTC
+1003;"Dr Dolittle";True;2026-02-02 14:37:05 UTC
+1004;"Aragon";True;2026-02-02 14:37:05 UTC
+1005;"Sophie";True;2026-02-02 14:37:05 UTC
+1006;"Berlok";False;2026-02-02 14:37:05 UTC

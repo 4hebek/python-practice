@@ -1,0 +1,20 @@
+["time='2026-02-03 15:23:35 UTC' user=user-100 team=AuthTeam result=Successful"]
+["time='2026-02-03 15:23:35 UTC' user=user-100 team=AuthTeam result=Successful", "time='2026-02-03 15:23:35 UTC' user=user-200 team=AuthTeam result=Failed"]
+["time='2026-02-03 15:23:35 UTC' user=user-100 team=AuthTeam result=Successful", "time='2026-02-03 15:23:35 UTC' user=user-200 team=AuthTeam result=Failed", "time='2026-02-03 15:23:35 UTC' user=user-100 team=AuthTeam result=Failed"]
+["time='2026-02-03 15:23:35 UTC' user=user-100 team=AuthTeam result=Successful", "time='2026-02-03 15:23:35 UTC' user=user-200 team=AuthTeam result=Failed", "time='2026-02-03 15:23:35 UTC' user=user-100 team=AuthTeam result=Failed", "time='2026-02-03 15:23:35 UTC' user=user-999 team=AuthTeam result=Unknown_User"]
+time='2026-02-03 15:25:57 UTC' user=user-100 team=AuthTeam result=Successful
+time='2026-02-03 15:25:57 UTC' user=user-200 team=AuthTeam result=Failed
+time='2026-02-03 15:25:57 UTC' user=user-100 team=AuthTeam result=Failed
+time='2026-02-03 15:25:57 UTC' user=user-999 team=AuthTeam result=Unknown_User
+time='2026-02-03 15:26:03 UTC' user=user-100 team=AuthTeam result=Successful
+time='2026-02-03 15:26:03 UTC' user=user-200 team=AuthTeam result=Failed
+time='2026-02-03 15:26:03 UTC' user=user-100 team=AuthTeam result=Failed
+time='2026-02-03 15:26:03 UTC' user=user-999 team=AuthTeam result=Unknown_User
+time=2026-02-03 15:27:15 UTC user=user-100 team=AuthTeam result=Successful
+time=2026-02-03 15:27:15 UTC user=user-200 team=AuthTeam result=Failed
+time=2026-02-03 15:27:15 UTC user=user-100 team=AuthTeam result=Failed
+time=2026-02-03 15:27:15 UTC user=user-999 team=AuthTeam result=Unknown_User
+time=2026-02-03 15:29:11 UTC user=user-100 team=AuthTeam result=Successful
+time=2026-02-03 15:29:11 UTC user=user-200 team=AuthTeam result=Failed
+time=2026-02-03 15:29:11 UTC user=user-100 team=AuthTeam result=Failed
+time=2026-02-03 15:29:11 UTC user=user-999 team=AuthTeam result=Unknown_User
