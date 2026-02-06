@@ -95,8 +95,8 @@ for book in library.values():
         titles.append(book.get("title"))
 
 if count > 0:
-        print(f"Total books in genre '{search_genre}': {count}")
-        for title in titles:
-            print(f"{title}")
+    print(f"Total books in genre '{search_genre}': {count}")
+    for title in titles:
+        print(f"{title}")
 else:
-        print("No books found for this genre.")
+    print("No books found for this genre.")

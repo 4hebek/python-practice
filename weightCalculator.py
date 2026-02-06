@@ -12,12 +12,12 @@
 import sys
 
 while True:
-    try:    
+    try:
         weight = int(input("Enter your weight: "))
         break
     except ValueError:
-        print(f"[ERROR] - Invalid input. Please enter a numeric value for weight.")
-        sys.exit() 
+        print("[ERROR] - Invalid input. Please enter a numeric value for weight.")
+        sys.exit()
 
 while True:
     unit = input("Enter the unit (L for pounds, K for kilograms): ").upper()
@@ -30,4 +30,4 @@ while True:
         print(f"Your weight in kilograms is: {converted_weight:.2f} kgs")
         break
     else:
-        print(f"Invalid unit. Please enter 'L' for pounds or 'K' for kilograms!!!")
+        print("Invalid unit. Please enter 'L' for pounds or 'K' for kilograms!")

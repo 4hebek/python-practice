@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Check History</title>
+</head>
+<body>
+    <h1>Password Check History</h1>
+    <table border="1">
+        <tr>
+            <th>Password</th>
+            <th>Strength</th>
+        </tr>
+        {% for entry in history %}
+        <tr>
+            <td>{{ entry.password }}</td>
+            <td>{{ entry.strength }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <a href="/">Check another password</a>
+</html>

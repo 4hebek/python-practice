@@ -2,9 +2,9 @@
 #    - make a dictionary with keys as (2-3) authors and values as 2-3 books per author.
 #    - input asking for an author name. (think about UX here).
 #    - print the books as a STRING!!!
-#    - error handling for incorrect author names. 
+#    - error handling for incorrect author names.
 #    - USE only in built methods and things we have already covered.
-#    - be prepared to justify your choices. 
+#    - be prepared to justify your choices.
 
 
 library = {
